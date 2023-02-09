@@ -7,7 +7,7 @@
 5. Change the [docker-compose.yml](docker-compose.yml) file line 5 with your docker repo
 6. Run docker ps and kill any running processes before you start this kill by docker kil <container id>
 7. run the service locally with docker compose up -d
-8. Go to localhost to see your image run and anytime master updates this will be automaticly updated.
+8. Go to localhost to see your image run and anytime master updates this will be automaticly updated. 
 
 # Local Development
 
